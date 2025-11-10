@@ -1,37 +1,91 @@
 {
-    "version": "1.9.0b",
+    "version": "1.9.0",
     "homepage": "https://github.com/Flowseal/zapret-discord-youtube",
     "license": "MIT",
     "notes": "Need administration rights to uninstall",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Flowseal/zapret-discord-youtube/releases/download/1.9.0b/zapret-discord-youtube-1.9.0b.zip",
-            "hash": "1f4e468621d41192d46413f03a7b63063874492e1f59784716be332d1e30031b"
+            "url": "https://github.com/Flowseal/zapret-discord-youtube/releases/download/1.9.0/zapret-discord-youtube-1.9.0.zip",
+            "hash": "aee602afcfd02cf4e55efa917737f9cdfb4262e2cd24d8ced02ef27a53e44389"
         },
         "32bit": {
-            "url": "https://github.com/Flowseal/zapret-discord-youtube/releases/download/1.9.0b/zapret-discord-youtube-1.9.0b.zip",
-            "hash": "1f4e468621d41192d46413f03a7b63063874492e1f59784716be332d1e30031b"
+            "url": "https://github.com/Flowseal/zapret-discord-youtube/releases/download/1.9.0/zapret-discord-youtube-1.9.0.zip",
+            "hash": "aee602afcfd02cf4e55efa917737f9cdfb4262e2cd24d8ced02ef27a53e44389"
         }
     },
     "shortcuts": [
-        [ "general.bat", "general" ],
-        [ "general (ALT).bat", "general (ALT)" ],
-        [ "general (ALT10).bat", "general (ALT10)" ],
-        [ "general (ALT2).bat", "general (ALT2)" ],
-        [ "general (ALT3).bat", "general (ALT3)" ],
-        [ "general (ALT4).bat", "general (ALT4)" ],
-        [ "general (ALT5).bat", "general (ALT5)" ],
-        [ "general (ALT6).bat", "general (ALT6)" ],
-        [ "general (ALT7).bat", "general (ALT7)" ],
-        [ "general (ALT8).bat", "general (ALT8)" ],
-        [ "general (ALT9).bat", "general (ALT9)" ],
-        [ "general (FAKE TLS AUTO ALT).bat", "general (FAKE TLS AUTO ALT)" ],
-        [ "general (FAKE TLS AUTO ALT2).bat", "general (FAKE TLS AUTO ALT2)" ],
-        [ "general (FAKE TLS AUTO ALT3).bat", "general (FAKE TLS AUTO ALT3)" ],
-        [ "general (FAKE TLS AUTO).bat", "general (FAKE TLS AUTO)" ],
-        [ "general (SIMPLE FAKE ALT).bat", "general (SIMPLE FAKE ALT)" ],
-        [ "general (SIMPLE FAKE).bat", "general (SIMPLE FAKE)" ],
-        [ "service.bat", "service" ]
+        [
+            "general.bat",
+            "general"
+        ],
+        [
+            "general (ALT).bat",
+            "general (ALT)"
+        ],
+        [
+            "general (ALT10).bat",
+            "general (ALT10)"
+        ],
+        [
+            "general (ALT2).bat",
+            "general (ALT2)"
+        ],
+        [
+            "general (ALT3).bat",
+            "general (ALT3)"
+        ],
+        [
+            "general (ALT4).bat",
+            "general (ALT4)"
+        ],
+        [
+            "general (ALT5).bat",
+            "general (ALT5)"
+        ],
+        [
+            "general (ALT6).bat",
+            "general (ALT6)"
+        ],
+        [
+            "general (ALT7).bat",
+            "general (ALT7)"
+        ],
+        [
+            "general (ALT8).bat",
+            "general (ALT8)"
+        ],
+        [
+            "general (ALT9).bat",
+            "general (ALT9)"
+        ],
+        [
+            "general (FAKE TLS AUTO ALT).bat",
+            "general (FAKE TLS AUTO ALT)"
+        ],
+        [
+            "general (FAKE TLS AUTO ALT2).bat",
+            "general (FAKE TLS AUTO ALT2)"
+        ],
+        [
+            "general (FAKE TLS AUTO ALT3).bat",
+            "general (FAKE TLS AUTO ALT3)"
+        ],
+        [
+            "general (FAKE TLS AUTO).bat",
+            "general (FAKE TLS AUTO)"
+        ],
+        [
+            "general (SIMPLE FAKE ALT).bat",
+            "general (SIMPLE FAKE ALT)"
+        ],
+        [
+            "general (SIMPLE FAKE).bat",
+            "general (SIMPLE FAKE)"
+        ],
+        [
+            "service.bat",
+            "service"
+        ]
     ],
     "persist": "lists",
     "checkver": {
